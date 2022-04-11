@@ -22,6 +22,8 @@ public class FirstExercise{
 		result = multiplication(result);
 		
 		System.out.println("The multiply of result and number three is: " + result);
+		
+		scnr.close();
     }
 	 
 	public static int summation(int num) {
